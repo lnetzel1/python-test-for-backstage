@@ -1,8 +1,8 @@
 # Goal
 
-Create a simple code repository and then add dcumentation to it shows up in Backstage
+Create a simple code repository and add documentation that shows up in Backstage
 
-## Header level 2
+## Resources
 
 URLs used to figure this out
 
