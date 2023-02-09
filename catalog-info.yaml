@@ -6,6 +6,6 @@ metadata:
   annotations:
     github.com/project-slug: lnetzel1/python-test-for-backstage
 spec:
-  type: other
-  lifecycle: unknown
+  type: script
+  lifecycle: experimental
   owner: spc-architects
