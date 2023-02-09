@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-test-for-backstage
+  annotations:
+    github.com/project-slug: lnetzel1/python-test-for-backstage
+spec:
+  type: other
+  lifecycle: unknown
+  owner: spc-architects
