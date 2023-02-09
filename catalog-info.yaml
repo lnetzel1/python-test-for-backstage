@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: python-test-for-backstage
+  description: My first Backstage catalog item.
   annotations:
     github.com/project-slug: lnetzel1/python-test-for-backstage
 spec:
