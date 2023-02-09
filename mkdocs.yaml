@@ -1,0 +1,9 @@
+site_name: python-test-for-backstage
+repo_url: lnetzel1/python-test-for-backstage
+edit_uri: edit/<default-branch>/docs
+
+nav:
+  - index.md
+
+plugins:
+  - techdocs-core
