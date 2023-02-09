@@ -1,6 +1,7 @@
 site_name: python-test-for-backstage
 repo_url: https://github.com/lnetzel1/python-test-for-backstage
 edit_uri: edit/main/docs
+builder: 'local'
 
 nav:
   - "Start": index.md
