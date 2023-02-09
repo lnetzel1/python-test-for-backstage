@@ -1,17 +1,10 @@
-# Header level 1
+# Goal
 
-This is content under the first header level.
+Create a simple code repository and then add dcumentation to it shows up in Backstage
 
 ## Header level 2
 
-This is a numbered list under the second header level:
+URLs used to figure this out
 
-1. First
-1. Second
-1. Thirds
-
-This is an unnumbered list:
-
-- Alpha
-- Bravo
-- Charlie
+1. https://backstage.volvocars.biz/docs/default/component/backstage
+1. https://backstage.volvocars.biz/docs/default/component/backstage/how-to-guides/techdocs/
